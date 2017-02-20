@@ -6,6 +6,10 @@
     ２.3.2 用Qt Designer创建对话框
     
     
+2.4 改变形状的对话框
+    2.4.1 简介
+    两种：扩展对话框（extension dialog）和多页对话框（multi-page dialog）,纯代码和Qt Designer都可以实现。
+    2.4.2 排序界面实例
     
     
     
